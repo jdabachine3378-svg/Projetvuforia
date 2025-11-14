@@ -57,7 +57,7 @@ Avant de créer le cube, il est nécessaire d’ajouter une cible AR (Image Targ
 2. Dans *Inspector* :
 
    * Type : **From Database**.
-   * Database : choisir celle téléchargée.
+   * Database : madatabase.
    * Image : sélectionner l’image importée.
 3. L’Image Target apparaît dans la scène et servira de support pour le cube.
 voila mon image :
